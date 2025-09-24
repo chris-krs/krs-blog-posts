@@ -1,1 +1,0 @@
-This page is to test the submodule update function successful or not
